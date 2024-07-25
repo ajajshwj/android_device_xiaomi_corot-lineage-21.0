@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keyguard_clock_top_margin">0.0dip</dimen>
+    <dimen name="miui_keyguard_bouncer_message_view_margin_top">11.618988dip</dimen>
+    <dimen name="miui_keyguard_password_view_key_board_view_height">266.4375dip</dimen>
+    <dimen name="miui_keyguard_password_view_password_margin_bottom">0.0dip</dimen>
+    <dimen name="miui_keyguard_password_view_password_margin_top">42.25dip</dimen>
+    <dimen name="miui_keyguard_pattern_view_eca_margin_bottom">0.0dip</dimen>
+    <dimen name="miui_keyguard_pin_view_rows_layout_height">504.09375dip</dimen>
+    <dimen name="miui_keyguard_sim_pin_view_layout_height">437.28125dip</dimen>
+    <dimen name="miui_keyguard_sim_pin_view_layout_width">556.72656dip</dimen>
+    <dimen name="modal_dialog_button_margin_center">14.786987dip</dimen>
+    <dimen name="modal_dialog_button_margin_left_right">47.182983dip</dimen>
+    <dimen name="modal_dialog_d_margin_top">26.405975dip</dimen>
+    <dimen name="notification_clear_all_end_margin">116.451996dip</dimen>
+    <dimen name="notification_clear_all_size">59.149994dip</dimen>
+    <dimen name="qs_customer_added_tile_height_for_pad">389.5625dip</dimen>
+    <dimen name="widget_big_font_size">92.94998dip</dimen>
+    <dimen name="notification_panel_width">532.34375dip</dimen>
+    <dimen name="notification_panel_width_lockscreen">457.23438dip</dimen>
+    <dimen name="notification_side_paddings">14.786987dip</dimen>
+    <dimen name="color_select_title_text_size">17.839996sp</dimen>
+</resources>

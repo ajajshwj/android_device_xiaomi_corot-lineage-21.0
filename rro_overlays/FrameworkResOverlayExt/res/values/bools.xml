@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_automatic_brightness_available">true</bool>
+    <bool name="config_enableWifiDisplay">true</bool>
+    <bool name="config_hearing_aid_profile_supported">true</bool>
+    <bool name="config_suspendWhenScreenOffDueToProximity">true</bool>
+</resources>

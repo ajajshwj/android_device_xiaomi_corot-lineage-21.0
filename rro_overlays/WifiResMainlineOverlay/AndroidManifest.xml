@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    android:compileSdkVersion="30"
+    android:compileSdkVersionCodename="11"
+    package="com.android.wifi.mainline.resources.overlay"
+    platformBuildVersionCode="30"
+    platformBuildVersionName="11"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:hasCode="false"
+        android:extractNativeLibs="false" />
+    <overlay
+        android:priority="0"
+        android:targetPackage="com.google.android.wifi.resources"
+        android:targetName="WifiCustomization"
+        android:isStatic="true" />
+</manifest>

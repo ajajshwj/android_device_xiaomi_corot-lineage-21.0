@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_showConfirmationDialogForThirdPartyAppsEnablingWifi">true</bool>
+    <bool name="config_wifi5ghzSupport">true</bool>
+    <bool name="config_wifi6ghzSupport">true</bool>
+    <bool name="config_wifiBridgedSoftApSupported">false</bool>
+    <bool name="config_wifiDppAkmSupported">true</bool>
+    <bool name="config_wifiMultiStaLocalOnlyConcurrencyEnabled">false</bool>
+    <bool name="config_wifiMultiStaMultiInternetConcurrencyEnabled">false</bool>
+    <bool name="config_wifiMultiStaNetworkSwitchingMakeBeforeBreakEnabled">false</bool>
+    <bool name="config_wifiMultiStaRestrictedConcurrencyEnabled">false</bool>
+    <bool name="config_wifiSaeH2eSupported">true</bool>
+    <bool name="config_wifiSoftap6ghzSupported">true</bool>
+    <bool name="config_wifiSoftapAutoUpgradeToBridgedConfigWhenSupported">false</bool>
+    <bool name="config_wifiSoftapIeee80211axSupported">true</bool>
+    <bool name="config_wifiSoftapIeee80211beSupported">true</bool>
+    <bool name="config_wifiSoftapOweSupported">false</bool>
+    <bool name="config_wifi_background_scan_support">true</bool>
+    <bool name="config_wifi_connected_mac_randomization_supported">true</bool>
+    <bool name="config_wifi_fast_bss_transition_enabled">true</bool>
+    <bool name="config_wifi_p2p_mac_randomization_supported">true</bool>
+    <bool name="config_wifi_softap_acs_supported">true</bool>
+    <bool name="config_wifi_softap_ieee80211ac_supported">true</bool>
+    <bool name="config_wifi_softap_sae_supported">true</bool>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="expanded_notification_header_bottom">3.1689758dip</dimen>
+    <dimen name="mini_window_max_trigger_threshold">84.5dip</dimen>
+    <dimen name="notification_clear_all_bottom_margin">0.0dip</dimen>
+    <dimen name="notification_clear_all_end_margin">36.123993dip</dimen>
+    <dimen name="qs_control_big_tile_height">93.71799dip</dimen>
+    <dimen name="qs_control_big_tiles_interval_vertical">19.204987dip</dimen>
+    <dimen name="qs_control_center_header_paddingTop">0.0dip</dimen>
+    <dimen name="qs_control_center_tile_margin_top">19.204987dip</dimen>
+    <dimen name="qs_control_detail_wifi_bt_height">342.60156dip</dimen>
+    <dimen name="qs_customer_added_tile_height_for_pad">382.16406dip</dimen>
+    <dimen name="qs_detail_items_min_height">0.0dip</dimen>
+    <dimen name="qs_header_privacy_margin_end">4.2249756dip</dimen>
+    <dimen name="qs_header_top_padding">4.2249756dip</dimen>
+    <dimen name="notification_panel_width">444.32812dip</dimen>
+    <dimen name="qs_control_foot_panel_margin_top">252.25198dip</dimen>
+</resources>

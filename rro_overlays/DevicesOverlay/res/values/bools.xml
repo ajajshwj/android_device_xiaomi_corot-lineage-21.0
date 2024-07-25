@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="status_bar_separate_data_and_voice">true</bool>
+    <bool name="support_round_corner">false</bool>
+</resources>

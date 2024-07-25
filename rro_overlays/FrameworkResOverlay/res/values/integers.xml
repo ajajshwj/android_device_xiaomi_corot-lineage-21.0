@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_num_physical_slots">2</integer>
+    <integer name="config_screenBrightnessDoze">5</integer>
+    <integer name="config_shortPressOnPowerBehavior">1</integer>
+</resources>

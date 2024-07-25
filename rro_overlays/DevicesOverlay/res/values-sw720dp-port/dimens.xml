@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keyguard_clock_top_margin">0.0dip</dimen>
+    <dimen name="notification_side_paddings">14.786987dip</dimen>
+    <dimen name="status_view_margin_horizontal">0.0dip</dimen>
+</resources>
