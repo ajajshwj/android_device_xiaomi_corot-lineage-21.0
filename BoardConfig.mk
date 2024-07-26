@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/xiaomi/23078RKD5C
+DEVICE_PATH := device/xiaomi/corot
 CONFIGS_PATH := $(DEVICE_PATH)/configs
 
 # For building with minimal manifest
@@ -182,4 +182,4 @@ TARGET_NO_BOOTLOADER := true
 TARGET_USES_UEFI := true
 
 # Inherit the proprietary version
-include vendor/xiaomi/23078RKD5C/BoardConfigVendor.mk
+include vendor/xiaomi/corot/BoardConfigVendor.mk

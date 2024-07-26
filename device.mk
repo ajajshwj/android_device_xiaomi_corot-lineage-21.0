@@ -124,4 +124,4 @@ PRODUCT_PACKAGES += \
 
     
 # Inherit the proprietary files
-$(call inherit-product, vendor/xiaomi/23078RKD5C/23078RKD5C-vendor.mk)
+$(call inherit-product, vendor/xiaomi/corot/corot-vendor.mk)

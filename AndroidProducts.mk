@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_23078RKD5C.mk
+    $(LOCAL_DIR)/lineage_corot.mk
     
 COMMON_LUNCH_CHOICES := \
-    $(foreach FLAVOR, user userdebug eng, lineage_23078RKD5C-$(FLAVOR))
+    $(foreach FLAVOR, user userdebug eng, lineage_corot-$(FLAVOR))
