@@ -17,4 +17,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_corot.mk
     
 COMMON_LUNCH_CHOICES := \
-    $(foreach FLAVOR, user userdebug eng, lineage_corot-$(FLAVOR))
+    lineage_corot-ap2a-user \
+    lineage_corot-ap2a-userdebug \
+    lineage_corot-ap2a-eng

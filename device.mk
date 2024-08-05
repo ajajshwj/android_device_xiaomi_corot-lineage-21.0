@@ -85,19 +85,9 @@ PRODUCT_PACKAGES += \
     
 #Audio
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/configs/audio/audio_effects.conf:system/etc/audio_effects.conf \
-    $(LOCAL_PATH)/configs/audio/audio_effects.xml:system/etc/audio_effects.xml
+    device/xiaomi/corot/configs/audio/audio_effects.conf:system/etc/audio_effects.conf \
+    device/xiaomi/corot/configs/audio/audio_effects.xml:system/etc/audio_effects.xml
 
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/configs/audio/audio_effects.conf:$(TARGET_COPY_OUT_VENDOR)/etc/audio_effects.conf \
-    $(LOCAL_PATH)/configs/audio/audio_device.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_device.xml \
-    $(LOCAL_PATH)/configs/audio/audio_effects.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_effects.xml \
-    $(LOCAL_PATH)/configs/audio/audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_configuration.xml \
-    $(LOCAL_PATH)/configs/audio/audio_policy_configuration_bluetooth_legacy_hal.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_configuration_bluetooth_legacy_hal.xml \
-    $(LOCAL_PATH)/configs/audio/audio_policy_volumes.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_volumes.xml \
-    $(LOCAL_PATH)/configs/audio/audio_em.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_em.xml 
-    
-    
 # Rootdir
 PRODUCT_PACKAGES += \
     fstab.mt6985 \
@@ -123,5 +113,3 @@ PRODUCT_PACKAGES += \
     ueventd.mtk.rc
 
     
-# Inherit the proprietary files
-$(call inherit-product, vendor/xiaomi/corot/corot-vendor.mk)
