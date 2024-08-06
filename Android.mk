@@ -6,6 +6,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),23078RKD5C)
+ifeq ($(TARGET_DEVICE),corot)
 include $(call all-makefiles-under,$(LOCAL_PATH))
 endif
